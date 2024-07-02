@@ -1,1 +1,1 @@
-# Factory-Pattern-CSharp
+# Factory-Method-Design-Pattern-CSharp
