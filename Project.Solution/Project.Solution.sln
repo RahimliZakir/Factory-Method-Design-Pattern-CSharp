@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicFactoryMethod.ConsoleApp", "BasicFactoryMethod.ConsoleApp\BasicFactoryMethod.ConsoleApp.csproj", "{679EE058-BEBE-4F3C-9312-DDB124436538}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicFactoryMethod.ConsoleApp", "BasicFactoryMethod.ConsoleApp\BasicFactoryMethod.ConsoleApp.csproj", "{679EE058-BEBE-4F3C-9312-DDB124436538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralFactoryMethod.ConsoleApp", "GeneralFactoryMethod.ConsoleApp\GeneralFactoryMethod.ConsoleApp.csproj", "{2C2A07DD-2F24-42BB-AB89-D1467D88A359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{679EE058-BEBE-4F3C-9312-DDB124436538}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{679EE058-BEBE-4F3C-9312-DDB124436538}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{679EE058-BEBE-4F3C-9312-DDB124436538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2A07DD-2F24-42BB-AB89-D1467D88A359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2A07DD-2F24-42BB-AB89-D1467D88A359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2A07DD-2F24-42BB-AB89-D1467D88A359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2A07DD-2F24-42BB-AB89-D1467D88A359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
