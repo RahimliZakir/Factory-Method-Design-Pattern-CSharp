@@ -1,5 +1,8 @@
-﻿namespace Project.ConsoleApp.AppCode
+﻿using BasicFactoryMethod.ConsoleApp.AppCode.Product;
+
+namespace BasicFactoryMethod.ConsoleApp.AppCode.ConcreteProduct
 {
+    // 2. Concrete Product.
     public class XmlReportGenerator : IReportGenerator
     {
         public string GenerateReport()

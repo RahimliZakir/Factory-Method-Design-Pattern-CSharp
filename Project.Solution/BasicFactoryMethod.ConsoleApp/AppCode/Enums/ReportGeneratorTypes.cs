@@ -1,4 +1,4 @@
-﻿namespace Project.ConsoleApp.AppCode
+﻿namespace BasicFactoryMethod.ConsoleApp.AppCode.Enums
 {
     public enum ReportGeneratorTypes : byte
     {
