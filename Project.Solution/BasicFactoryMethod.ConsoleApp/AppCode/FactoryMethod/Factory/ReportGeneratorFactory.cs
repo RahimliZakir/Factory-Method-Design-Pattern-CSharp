@@ -1,8 +1,8 @@
-﻿using BasicFactoryMethod.ConsoleApp.AppCode.ConcreteProduct;
-using BasicFactoryMethod.ConsoleApp.AppCode.Enums;
-using BasicFactoryMethod.ConsoleApp.AppCode.Product;
+﻿using BasicFactoryMethod.ConsoleApp.AppCode.Enums;
+using BasicFactoryMethod.ConsoleApp.AppCode.FactoryMethod.AbstractProduct;
+using BasicFactoryMethod.ConsoleApp.AppCode.FactoryMethod.ConcreteProduct;
 
-namespace BasicFactoryMethod.ConsoleApp.AppCode.CreatorAndConcreteCreator
+namespace BasicFactoryMethod.ConsoleApp.AppCode.FactoryMethod.Factory
 {
     // 3. Creator.
     public class ReportGeneratorFactory

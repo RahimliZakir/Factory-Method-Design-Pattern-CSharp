@@ -1,6 +1,6 @@
-﻿using BasicFactoryMethod.ConsoleApp.AppCode.Product;
+﻿using BasicFactoryMethod.ConsoleApp.AppCode.FactoryMethod.AbstractProduct;
 
-namespace BasicFactoryMethod.ConsoleApp.AppCode.ConcreteProduct
+namespace BasicFactoryMethod.ConsoleApp.AppCode.FactoryMethod.ConcreteProduct
 {
     // 2. Concrete Product.
     public class XmlReportGenerator : IReportGenerator

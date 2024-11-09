@@ -1,6 +1,6 @@
-﻿using BasicFactoryMethod.ConsoleApp.AppCode.CreatorAndConcreteCreator;
-using BasicFactoryMethod.ConsoleApp.AppCode.Enums;
-using BasicFactoryMethod.ConsoleApp.AppCode.Product;
+﻿using BasicFactoryMethod.ConsoleApp.AppCode.Enums;
+using BasicFactoryMethod.ConsoleApp.AppCode.FactoryMethod.AbstractProduct;
+using BasicFactoryMethod.ConsoleApp.AppCode.FactoryMethod.Factory;
 
 ReportGeneratorFactory reportGeneratorFactory = new();
 
