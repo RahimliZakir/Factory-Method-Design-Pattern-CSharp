@@ -1,4 +1,4 @@
-﻿namespace GeneralFactoryMethod.ConsoleApp.AppCode.Product
+﻿namespace GeneralFactoryMethod.ConsoleApp.AppCode.Factory.AbstractProduct
 {
     // 1. Product.
     public interface IBurger

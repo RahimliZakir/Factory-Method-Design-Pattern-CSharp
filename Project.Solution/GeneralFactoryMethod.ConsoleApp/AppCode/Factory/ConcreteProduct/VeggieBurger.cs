@@ -1,6 +1,6 @@
-﻿using GeneralFactoryMethod.ConsoleApp.AppCode.Product;
+﻿using GeneralFactoryMethod.ConsoleApp.AppCode.Factory.AbstractProduct;
 
-namespace GeneralFactoryMethod.ConsoleApp.AppCode.ConcreteProduct
+namespace GeneralFactoryMethod.ConsoleApp.AppCode.Factory.ConcreteProduct
 {
     // 2. Concrete Product.
     public class VeggieBurger : IBurger

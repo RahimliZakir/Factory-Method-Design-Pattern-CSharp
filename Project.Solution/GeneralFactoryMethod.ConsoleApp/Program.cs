@@ -1,6 +1,7 @@
-﻿using GeneralFactoryMethod.ConsoleApp.AppCode.ConcreteCreator;
-using GeneralFactoryMethod.ConsoleApp.AppCode.Creator;
-using GeneralFactoryMethod.ConsoleApp.AppCode.Product;
+﻿using GeneralFactoryMethod.ConsoleApp.AppCode.Factory.AbstractFactory;
+using GeneralFactoryMethod.ConsoleApp.AppCode.Factory.AbstractProduct;
+using GeneralFactoryMethod.ConsoleApp.AppCode.Factory.ConcreteFactory;
+
 
 // 1. Cheeseburger.
 IBurgerCreatorFactory cheeseBurgerCreatorFactory = new CheeseburgerCreatorFactory();
